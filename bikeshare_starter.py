@@ -119,6 +119,8 @@ def user_stats(df):
 
 
 def main():
+    """Runs the bikeshare analysis and allows the user to restart the program."""
+
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
