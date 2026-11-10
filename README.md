@@ -7,6 +7,16 @@ The goal of the Bikeshare project is to use Python to explore data related to bi
 
 The project includes a Python script that analyses bike share data stored in CSV files.
 
+## Features
+
+The program allows users to explore bikeshare data by:
+
+- Selecting a city, month and day to analyse.
+- Viewing the most popular travel times.
+- Viewing the most popular stations and trips.
+- Calculating trip duration statistics.
+- Viewing statistics about bikeshare users.
+
 ## Information about how to use bikeshare project
 
 The project requires Python and the pandas library.
