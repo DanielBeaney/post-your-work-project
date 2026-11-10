@@ -1,27 +1,34 @@
 >**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
 
 
-# Project Title
+# Bikeshare Project
 
-Describe what your project is about and what it does
+The goal of the Bikeshare project is to use Python to explore data related to bike share systems.
 
-## Information about how to use your project
+The project includes a Python script that analyses bike share data stored in CSV files.
 
-This could include:
+## Information about how to use bikeshare project
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+The project requires Python and the pandas library.
+
+To run the project:
+
+1. Download the project files.
+2. Ensure the required CSV data files are available.
+3. Run the Python script:
+
+   python bikeshare_starter.py
+
+4. Follow the prompts in the terminal to explore the bikeshare data.
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+This project was created as part of the Udacity course and is not currently open for contributions.
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project was completed as part of the Udacity course using the provided Bikeshare project materials and datasets.
 
 ## Date created
 
-Include the date you created this project and README file.
+10th November 2026
